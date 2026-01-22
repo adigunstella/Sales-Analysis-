@@ -9,18 +9,19 @@ Project Overview
 The dashboard displays key sales metrics in an interactive format, making it easy to explore trends, compare category performance, and track changes over time to support better sales and pricing decisions.
 
 Key Focus Areas
-	1.	Overall revenue and order performance
-	2.	Product category performance and contribution
-	3.	Identification of top and low-performing categories
-	4.	Customer payment method preferences
-	5.	Monthly sales trends and seasonality
-	6.	Effect of discounts on revenue
+1. Overall revenue and order performance
+2. Product category performance and contribution
+3. Identification of top and low performing categories
+4. Customer payment method preferences
+5. Monthly sales trends
+   
 
 Tools Used
-	1.	Microsoft Excel
-	2.	Pivot Tables
-	3.	Slicers
-	4.	Timeline
+1. Microsoft Excel
+2. Pivot Tables
+3. Slicers
+4. Timeline 
+
 
 Additional Files
 
